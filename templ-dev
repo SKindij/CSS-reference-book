@@ -1,0 +1,16 @@
+/* positioning */
+.elem-position {
+  position: relative;
+  position: absolute;
+  position: fixed;
+
+
+
+  float: left;
+  float: right;
+}
+
+
+
+
+
