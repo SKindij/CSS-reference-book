@@ -4,23 +4,10 @@
 --WhiteSmoke: #f5f5f5;
 --GhostWhite: #f8f8ff;
 --Snow: #fffafa;
---BabyPowder: #fefefa;
---LavenderBlush: #fff0f5;
---Seashell: #fff5ee;
---Linen: #faf0e6;
---MistyRose: #ffe4e1;
---Gray80: #cccccc;
---Gray72: #b8b8b8;
---Gray64: #a3a3a3;
---LightGrey: #d3d3d3;
---DarkSalmon: #e9967a;
+}
+ 
+:root {
 --Black: #000;
---WebGrey: #808080;  
---OliveDrab: #6b8e23;  
---YellowGreen: #9acd32;  
---DarkKhaki: #bdb76b;  
---LightKhaki: #f0e68c;  
---Mindaro: #e3f988; 
 }
 
 :root {
@@ -36,5 +23,22 @@
 }
 
 :root {
+--Purple: #800080;  
+}
+
+:root {
+--Gray: #808080;
+--Gray80: #cccccc;
+--Gray72: #b8b8b8;
+--Gray64: #a3a3a3;
+--LightGrey: #d3d3d3;
   
 }
+
+:root {
+--Red: #ff0000;  
+}
+
+
+
+
