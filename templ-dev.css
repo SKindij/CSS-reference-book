@@ -4,12 +4,15 @@
   float: left | right;
 }
 
-/* block model and size */
-  
-  
-  .selector {
+/* block model and size */ 
+.selector {
   width: ;| height: ;
-    
+  margin: 0 auto; 
+  box-sizing: content-box | border-box;
+  border: ;
+  border-color: ;
+  border-style: solid | dotted | double | groove | ridge | inset | outset;
+  padding: ;
   
 }
 
