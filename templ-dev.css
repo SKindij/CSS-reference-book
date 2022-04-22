@@ -13,8 +13,13 @@
   border-color: ;
   border-style: solid | dotted | double | groove | ridge | inset | outset;
   padding: ;
-  
+  display: none | block | inline | inline-block | flex | grid;
 }
+
+/*  */
+
+
+
 
 
 
