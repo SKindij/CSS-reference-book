@@ -2,9 +2,14 @@
 .selector {
   position: static | relative | absolute | fixed | sticky | inherit;
   float: left | right;
+}
+
+/* block model and size */
   
   
-  
+  .selector {
+  width: ;| height: ;
+    
   
 }
 
