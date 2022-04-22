@@ -1,13 +1,11 @@
 /* positioning */
-.elem-position {
-  position: relative;
-  position: absolute;
-  position: fixed;
-
-
-
-  float: left;
-  float: right;
+.selector {
+  position: static | relative | absolute | fixed | sticky | inherit;
+  float: left | right;
+  
+  
+  
+  
 }
 
 
