@@ -8,10 +8,18 @@
  
 :root {
 --Black: #000;
+--EerieBlack: #1b1b1b;
+--Gray17: #2b2b2b;
+--SmokyBlack: #100c08;
+--Gray25: #404040;
+--DavyGrey: #555555;
 }
 
 :root {
---Blue: #0000ff; 
+--Blue: #0000ff;
+ 
+ 
+ 
 }
 
 :root {
