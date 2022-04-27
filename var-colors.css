@@ -40,7 +40,7 @@
 
 :root {
 --Purple: #800080; 
---Magenta : #ff00ff;
+--Magenta: #ff00ff;
 }
 
 :root {
@@ -53,7 +53,9 @@
 }
 
 :root {
---Red: #ff0000;  
+--DarkRed: #8b0000; 
+--Red: #ff0000; 
+--Crimson: #dc143c;  
 }
 
 
