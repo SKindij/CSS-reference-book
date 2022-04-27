@@ -19,10 +19,13 @@
 }
 
 :root {
+--DarkBlue: #00008b;
+--MidnightBlue: #191970; 
 --Blue: #0000ff;
- 
- 
- 
+--RoyalBlue: #4169e1;
+--SlateBlue: #6a5acd;
+--MediumSlateBlue: #7b68ee;
+--LightSkyBlue: #87cefa;
 }
 
 :root {
