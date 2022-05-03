@@ -38,11 +38,11 @@
 --PaleTurquoise: #afeeee; 
 --Aquamarine: #7fffd4; 
 --Turquoise: #40e0d0; 
---Bright Aqua: #0bf9ea; 
+--BrightAqua: #0bf9ea; 
 --Cyan: #00ffff;
 --LightCyan: #e0ffff;
---Blue-Green: #0d98ba;
---Dark Aqua: #05696b; 
+--BlueGreen: #0d98ba;
+--DarkAqua: #05696b; 
 }
 
 :root {
@@ -66,7 +66,12 @@
 }
 
 :root {
+--Olive: #808000;
+--Khaki: #f0e68c; 
+--Goldenrod: #daa520; 
+--Gold: #ffd700; 
 --Yellow: #ffff00;  
+--LemonChiffon: #fffacd; 
 }
 
 :root {
