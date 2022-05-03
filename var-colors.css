@@ -31,14 +31,18 @@
 :root {
 --DarkSlateGray: #2f4f4f; 
 --Teal: #008080;  
--- DarkTurquoise: #00ced1;
+--DarkTurquoise: #00ced1;
 }
 
 :root {
 --PaleTurquoise: #afeeee; 
 --Aquamarine: #7fffd4; 
 --Turquoise: #40e0d0; 
---Cyan: #00ffff;  
+--Bright Aqua: #0bf9ea; 
+--Cyan: #00ffff;
+--LightCyan: #e0ffff;
+--Blue-Green: #0d98ba;
+--Dark Aqua: #05696b; 
 }
 
 :root {
