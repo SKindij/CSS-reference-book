@@ -4,6 +4,9 @@
 --WhiteSmoke: #f5f5f5;
 --GhostWhite: #f8f8ff;
 --Snow: #fffafa;
+--Silver: #c0c0c0; 
+--Gainsboro: #dcdcdc; 
+--FloralWhite: #fffaf0; 
 }
  
 :root {
@@ -93,6 +96,3 @@
 --ReddishBrown: #7f2b0a; 
 }
 
-:root {
---Silver: #c0c0c0;    
-}
