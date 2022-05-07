@@ -6,7 +6,8 @@
 --Snow: #fffafa;
 --Silver: #c0c0c0; 
 --Gainsboro: #dcdcdc; 
---FloralWhite: #fffaf0; 
+--FloralWhite: #fffaf0;
+--MintCream: #f5fffa; 
 }
  
 :root {
@@ -91,6 +92,7 @@
 }
 
 :root {
+--BarnRed: #7c0a02; 
 --PersianPlum: #701c1c; 
 --Maroon: #800000; 
 --ReddishBrown: #7f2b0a; 
