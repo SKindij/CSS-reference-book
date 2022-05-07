@@ -51,13 +51,16 @@
 }
 
 :root {
+--DeepPurple:  #602f6b;
+--WebPurple:  #7f007f;
 --Purple: #800080; 
 --Magenta: #ff00ff;
+--PansyPurple: #78184a;
+--VioletPink: #fb5ffc;
+--CandyPink:  #ff63e9;
 }
 
 :root {
---DeepPurple:  #602f6b;
---WebPurple:  #7f007f;
 --DarkRed: #8b0000; 
 --Red: #ff0000; 
 --Crimson: #dc143c;  
