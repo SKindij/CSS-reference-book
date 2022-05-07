@@ -32,6 +32,11 @@
 --DarkSlateGray: #2f4f4f; 
 --Teal: #008080;  
 --DarkTurquoise: #00ced1;
+--Gray: #808080;
+--Gray80: #cccccc;
+--Gray72: #b8b8b8;
+--Gray64: #a3a3a3;
+--LightGrey: #d3d3d3;
 }
 
 :root {
@@ -48,15 +53,6 @@
 :root {
 --Purple: #800080; 
 --Magenta: #ff00ff;
-}
-
-:root {
---Gray: #808080;
---Gray80: #cccccc;
---Gray72: #b8b8b8;
---Gray64: #a3a3a3;
---LightGrey: #d3d3d3;
-  
 }
 
 :root {
@@ -79,26 +75,17 @@
 --BottleGreen: #044a05; 
 --HunterGreen: #0b4008; 
 --DarkGreen: #006400; 
---Green: #008000;  
+--Green: #008000; 
+--LimeGreen: #32cd32; 
 --Lime: #00ff00;
 --LightNeonGreen: #4efd54;
 --PaleGreen: #98fb98; 
 }
 
 :root {
---LimeGreen: #32cd32;
---PaleGreen: #98fb98; 
---Lime: #00ff00;  
-}
-
-:root {
 --PersianPlum: #701c1c; 
 --Maroon: #800000; 
 --ReddishBrown: #7f2b0a; 
-}
-
-:root {
---Olive: #808000;  
 }
 
 :root {
