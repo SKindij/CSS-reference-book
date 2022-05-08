@@ -24,7 +24,9 @@ font-family: serif | sans-serif | monospace | cursive | fantasy;
 font-size: 1rem;  
 line-height: 1.2;  
 text-align: left | center | right | justify;  
-  
+font-weight: 100 (thin, hairline) | 200 (extra light, ultra light) | 300 (light) | 400 (normal, regular, book) | 500 (medium) |600 (semi bold, demi bold) | 700 (bold) | 800 (extra bold, ultra bold) | 900 (black, heavy);  
+letter-spacing: ;
+text-decoration: none;  
   
 }  
 
