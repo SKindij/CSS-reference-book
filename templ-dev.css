@@ -30,11 +30,16 @@ text-decoration: none;
 text-rendering: ;
 text-shadow: Х У Р color;  
 white-space: pre;  
-text-overflow: ;  
-  
+text-overflow: ;    
 }  
 
-
+/* display (design) */
+.selector {
+overflow: ...;  
+  
+  
+  
+} 
 
 
 
