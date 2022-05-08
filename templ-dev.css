@@ -2,6 +2,7 @@
 .selector {
   position: static | relative | absolute | fixed | sticky | inherit;
   float: left | right;
+  z-index: ...; 
 }
 
 /* block model and size */ 
@@ -16,8 +17,16 @@
   display: none | block | inline | inline-block | flex | grid;
 }
 
-/*  */
+/* typography (text properties) */
+.selector {
 
+  
+  
+  
+  
+  
+  
+}  
 
 
 
