@@ -19,11 +19,11 @@
 
 /* typography (text properties) */
 .selector {
-
-  
-  
-  
-  
+color: currentColor;
+font-family: serif | sans-serif | monospace | cursive | fantasy;  
+font-size: 1rem;  
+line-height: 1.2;  
+text-align: left | center | right | justify;  
   
   
 }  
