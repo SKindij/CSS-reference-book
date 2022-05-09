@@ -20,8 +20,8 @@
 /* flex */
 .container {
   flex-direction: row | row-reverse | column | column-reverse;
-
-
+  flex-wrap: nowrap | wrap-reverse;
+  flex-flow: ;
 
 
 }
