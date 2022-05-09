@@ -18,7 +18,13 @@
 }
 
 /* flex */
+.container {
+  flex-direction: row | row-reverse | column | column-reverse;
 
+
+
+
+}
 
 
 
@@ -30,33 +36,33 @@
 
 /* typography (text properties) */
 .selector {
-color: currentColor;
-font-family: serif | sans-serif | monospace | cursive | fantasy;  
-font-size: 1rem;  
-line-height: 1.2;  
-text-align: left | center | right | justify;  
-font-weight: 100 (thin, hairline) | 200 (extra light, ultra light) | 300 (light) | 400 (normal, regular, book) | 500 (medium) |600 (semi bold, demi bold) | 700 (bold) | 800 (extra bold, ultra bold) | 900 (black, heavy);  
-letter-spacing: ;
-text-decoration: none;  
-text-rendering: ;
-text-shadow: Х У Р color;  
-white-space: pre;  
-text-overflow: ;    
+  color: currentColor;
+  font-family: serif | sans-serif | monospace | cursive | fantasy;  
+  font-size: 1rem;  
+  line-height: 1.2;  
+  text-align: left | center | right | justify;  
+  font-weight: 100 (thin, hairline) | 200 (extra light, ultra light) | 300 (light) | 400 (normal, regular, book) | 500 (medium) |600 (semi bold, demi bold) | 700 (bold) | 800 (extra bold, ultra bold) | 900 (black, heavy);  
+  letter-spacing: ;
+  text-decoration: none;  
+  text-rendering: ;
+  text-shadow: Х У Р color;  
+  white-space: pre;  
+  text-overflow: ;    
 }  
 
 /* display (design) */
 .selector {
-overflow: ...;  
-opacity: ...;  
-visibility: ...;   
-position: absolute | fixed;
-clip: rect(0, 0, 0, 0);  
-background-color: …;
-background-image: url("");
-background-position-y:   ;   
-background-size:    ;  
-background-repeat:   ;  
-box-shadow: Х У Р Р color;  
+  overflow: ...;  
+  opacity: ...;  
+  visibility: ...;   
+  position: absolute | fixed;
+  clip: rect(0, 0, 0, 0);  
+  background-color: …;
+  background-image: url("");
+  background-position-y:   ;   
+  background-size:    ;  
+  background-repeat:   ;  
+  box-shadow: Х У Р Р color;  
 } 
 
 
