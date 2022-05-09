@@ -38,7 +38,10 @@ text-overflow: ;
 overflow: ...;  
 opacity: ...;  
 visibility: ...;   
-  
+position: absolute | fixed;
+clip: rect(0, 0, 0, 0);  
+background-color: …;
+background-image: url(""); 
 } 
 
 
