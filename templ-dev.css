@@ -31,8 +31,9 @@
 /* grid */
 .container {
   display: grid; 
-
-
+  grid-template-columns: ;
+  grid-template-rows: ;
+  grid-template-columns: repeat(3, 250px);
 
 
 }
