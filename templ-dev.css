@@ -29,7 +29,13 @@
 
 
 /* grid */
+.container {
+  display: grid; 
 
+
+
+
+}
 
 
 
