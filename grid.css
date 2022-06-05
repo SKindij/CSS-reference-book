@@ -52,9 +52,54 @@ footer {
 /* You can explicitly name gridlines using square brackets: */
 .container {
   display: grid;
-  grid-template-columns: [start] 140px [line2] 250px [line3] 40px [end];
-  grid-template-rows: [row1-start] 25rem [row1-end] 10vh [last];
+  grid-template-columns: [start-line] 140px [line2] 250px [line3] 40px [end-line];
+  grid-template-rows: [row1-start] 25rem [row1-end] 10vh [last-row];
 }
+
+/* 3 columns of 250 pixels will be created: */
+.container {
+  display: grid;
+  grid-template-columns: repeat(3, 250px);
+}
+/* free space will be divided between 2 columns */
+.container {
+  display: grid;
+  grid-template-columns: 1fr 200px 1fr;
+}
+
+/* grid template for arranging items inside a grid container */
+.container {
+  display: grid;
+  grid-template-columns: 200px 1fr 1fr 1fr;
+  grid-template-rows: repeat(4, 150px);
+  grid-template-areas:
+    "header header header header"
+    "menu content content content"
+    "menu content . content"
+    "footer footer footer footer";
+}
+.item1 {
+  grid-area: header;
+  background-color: purple;
+}
+.item2 {
+  grid-area: menu;
+  background-color: yellow;
+}
+
+.item3 {
+  grid-area: content;
+  background-color: pink;
+}
+.item4 {
+  grid-area: footer;
+  background-color: gray;
+}
+
+
+
+
+
 
 
 
