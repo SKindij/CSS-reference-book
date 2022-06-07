@@ -96,6 +96,19 @@ footer {
   background-color: gray;
 }
 
+// Grid item properties
+.container {
+  display: grid;
+  grid-template-columns: [one] 1fr [two] 1fr [three] 1fr [four] 1fr [five] 1fr [six];
+  grid-template-rows: [row1-start] 1fr [row1-end] 1fr 1fr;
+}
+
+.item1 {
+  grid-column-start: 2;
+  grid-column-end: five;
+  grid-row-start: row1-start;
+  grid-row-end: 3;
+}
 
 
 
