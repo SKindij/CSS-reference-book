@@ -1,7 +1,4 @@
-*, *::after, *::before {
-    box-sizing: border-box;
-    margin: 0; padding: 0;}
-
+/* short summary of styles */
 /* positioning */
 .selector {
   position: static | relative | absolute | fixed | sticky | inherit;
@@ -30,8 +27,6 @@
   align-items: ;
 }
 
-
-
 /* grid */
 .container {
   display: grid; 
@@ -44,9 +39,6 @@
   justify-items: start | end | center | stretch ;
 
 }
-
-
-
 
 /* typography (text properties) */
 .selector {
@@ -78,8 +70,5 @@
   background-repeat:   ;  
   box-shadow: Х У Р Р color;  
 } 
-
-
-
 
 
