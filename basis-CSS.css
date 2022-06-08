@@ -20,6 +20,18 @@ body {
 ul[class], ol[class] {
   list-style: none;
 }
+/* a that do not have a class are reset to default styles */
+a:not([class]) {
+  text-decoration-skip-ink: auto;
+}
+/* simplify working with images */
+img {
+  max-width: 100%;
+  display: block;
+}
+
+
+
 
 
 
