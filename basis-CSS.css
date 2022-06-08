@@ -29,6 +29,21 @@ img {
   max-width: 100%;
   display: block;
 }
+/* specify a clear periodicity in data flow of article */
+article > * + * {
+  margin-top: 1em;
+}
+/* inheriting fonts for inputs and buttons */
+input, button, textarea, select {
+  font: inherit;
+}
+
+
+
+
+
+
+
 
 
 
