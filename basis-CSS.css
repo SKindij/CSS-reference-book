@@ -1,20 +1,13 @@
 /* modern Style Reset */
 *, *::before, *::after {
   box-sizing: border-box;
-}
-/* we remove indents */
-ul[class], ol[class] {
-  padding: 0;
-}
-body, h1, h2, h3, h4, p, ul[class], ol[class], li, figure, figcaption, blockquote, dl, dd {
-  margin: 0;
+  margin: 0; padding: 0;
 }
 /* set main default settings for body */
 body {
   min-height: 100vh;
   scroll-behavior: smooth;
   text-rendering: optimizeSpeed;
-  line-height: 1.5;
 }
 /* remove default styling for ul and ol that have a class attribute */
 ul[class], ol[class] {
@@ -25,7 +18,7 @@ a:not([class]) {
   text-decoration-skip-ink: auto;
 }
 /* simplify working with images */
-img {
+body img {
   max-width: 100%;
   display: block;
 }
@@ -37,13 +30,6 @@ article > * + * {
 input, button, textarea, select {
   font: inherit;
 }
-
-
-
-
-
-
-
 
 
 
