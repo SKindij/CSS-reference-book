@@ -7,24 +7,11 @@
 body {
   min-height: 100vh;
   scroll-behavior: smooth;
-  text-rendering: optimizeSpeed;
-}
-/* remove default styling for ul and ol that have a class attribute */
-ul[class], ol[class] {
-  list-style: none;
-}
-/* a that do not have a class are reset to default styles */
-a:not([class]) {
-  text-decoration-skip-ink: auto;
 }
 /* simplify working with images */
 body img {
   max-width: 100%;
   display: block;
-}
-/* specify a clear periodicity in data flow of article */
-article > * + * {
-  margin-top: 1em;
 }
 /* inheriting fonts for inputs and buttons */
 input, button, textarea, select {
