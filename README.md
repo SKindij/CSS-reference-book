@@ -82,18 +82,23 @@ ___
 * **{ visibility: }**
 * **{ background-color: }**
 * **{ background-image: }**
-
+* **{ box-shadow: }**
 
 ___
 
 ## 5. animation
 
-
-
-
+* **@media:**
+    + mobile first 
+    + desktop first 
+* **@keyframes animationName {...}**
+    + animation-name: animationName;
+    + animation-duration
+    + animation-iteration-count
+    + animation-direction
+    + animation-timing-function
+    + animation-delay
+    + animation-play-state
 
 ## 6. other
-
-
-
 
