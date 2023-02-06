@@ -8,7 +8,18 @@
     * inline _(line display)_
     * inline-block  _(behaves externally as a row, and internally as a block)_
     * flex
+        + flex-direction
+        + flex-wrap
+        + justify-content
+        + align-items
+        + align-content
     * grid
+        + grid-template-columns
+        + grid-template-rows
+        + fr _(fraction)_
+        + justify-items
+        + align-items
+        + grid-template-areas
 * **{ position: }**
     * static
     * relative
