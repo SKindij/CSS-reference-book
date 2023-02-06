@@ -53,6 +53,25 @@ ___
 
 ## 3. typography (text properties)
 
+* **{ font-family: }**
+* **{ font-size: }**
+* **{ color: }**
+* **{ letter-spacing: }**
+* **{ line-height: }**
+* **{ text-align: }**
+    * left
+    * center
+    * right
+    * justify
+* **{ font-weight: }**
+    * 100 _(thin, hairline)_
+    * 400 _(normal, regular, book)_
+    * 600 _(semi bold, demi bold)_
+    * 800 _(extra bold, ultra bold)_
+* **{ text-decoration: }**
+* **{ white-space: }**
+* **{ text-overflow: }**
+* **{ text-shadow: }**
 
 ___
 
