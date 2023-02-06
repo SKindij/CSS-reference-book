@@ -25,7 +25,29 @@ ___
 
 ## 2. block model and sizes
 
-
+* **{ width: }**
+* **{ height: }**
+* **{ box-sizing: }**
+    * content-box
+    * border-box
+* **{ margin: }**
+    * 0 auto
+    * N _(all sides)_
+    * N N _(top-bottom | left-right)_
+    * N N N _(top | left-right | bottom)_
+    * N N N N _(top | right | bottom | left)_
+* **{ border: }**
+    * -color
+    * -style
+        + solid
+        + dotted
+        + dashed
+        + double
+* **{ padding: }**
+    * -top
+    * -right
+    * -bottom
+    * -left
 
 ___
 
