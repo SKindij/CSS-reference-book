@@ -77,7 +77,11 @@ ___
 
 ## 4. display (design)
 
-
+* **{ overflow: }**
+* **{ opacity: }**
+* **{ visibility: }**
+* **{ background-color: }**
+* **{ background-image: }**
 
 
 ___
