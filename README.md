@@ -2,6 +2,24 @@
 
 ## 1. positioning
 
+* **{ display: }**
+    * none _(hide from the page)_
+    * block _(block mapping)_
+    * inline _(line display)_
+    * inline-block  _(behaves externally as a row, and internally as a block)_
+    * flex
+    * grid
+* **{ position: }**
+    * static
+    * relative
+    * absolute
+    * fixed
+    * sticky
+    * inherit
+* **{ float: }**
+    * left
+    * right
+* **{ z-index: }**
 
 ___
 
