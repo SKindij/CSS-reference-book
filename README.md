@@ -65,6 +65,11 @@ ___
 ## 3. typography (text properties)
 
 * **{ font-family: }**
+    * serif (Times)
+    * sans-serif (Arial)
+    * monospace (Courier)
+    * cursive (italic)
+    * fantasy
 * **{ font-size: }**
 * **{ color: }**
 * **{ letter-spacing: }**
@@ -89,11 +94,33 @@ ___
 ## 4. display (design)
 
 * **{ overflow: }**
+    * visible
+    * hidden
+    * scroll
+    * auto
+    * initial
+    * inherit
 * **{ opacity: }**
+    * 0
+    * 0.5
+    * 1
 * **{ visibility: }**
+    * visible
+    * hidden
 * **{ background-color: }**
 * **{ background-image: }**
+    * linear-gradient ()
+    * radial-gradient ()
+    * background-position
+    * background-size
+    * background-repeat
+    * background-attachment
 * **{ box-shadow: }**
+    * Х
+    * У
+    * blur
+    * spread
+    * color
 
 ___
 
